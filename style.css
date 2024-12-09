@@ -5,10 +5,20 @@ h1 {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color:black;
 }
- .textoColorido {
+.textoColorido {
     color:rgb(0, 68, 255) ;
  }
  img {
     height: 200px;
     width: 200px;
  }
+.produtos{
+    display:inline-block ;
+    margin: 50px 30px;
+    background-color:aqua;
+}
+.produtos > p{
+    max-width: 200px;
+    text-align: center;
+    
+}
