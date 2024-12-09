@@ -20,5 +20,9 @@ h1 {
 .produtos > p{
     max-width: 200px;
     text-align: center;
-    
 }
+form {
+    background-color: rgb(153, 153, 113);
+    width: 100%;
+}
+/*  ajustar a largura do formulario.*/
