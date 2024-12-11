@@ -3,35 +3,57 @@ body {
     margin: 0%;
     padding: 0%;
 }
+
 section {
     margin: 40px;
 }
+
 h1 {
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
 }
+
 .textoColorido {
-    color:rgb(0, 1, 5) ;
- }
- img {
+    color: rgb(0, 1, 5);
+}
+
+img {
     height: 200px;
     width: 200px;
- }
-.produtos{
-    display:inline-block ;
-    margin: 50px 30px;
-    background-color:  #b39e58;
 }
-.produtos > p{
+
+.produtos {
+    display: inline-block;
+    margin: 50px 30px;
+    background-color: #b39e58;
+}
+
+.produtos>p {
     max-width: 200px;
     text-align: center;
 }
+
 .barra {
     margin-left: 40px;
 }
+
 #piso {
     background-color: rgb(153, 153, 113);
     width: 100%;
     display: flex;
 }
-/*  ajustar a largura do formulario.*/
+
+i.fab.fa-whatsapp {
+    font-size: 25px;
+    /* Ajusta o tamanho */
+    color: #25D366;
+    /* Cor verde do WhatsApp */
+    cursor: pointer;
+    /* Altera o cursor para indicar que é clicável */
+    margin-left: 7px;
+}
+
+i.fab.fa-whatsapp:hover {
+    color: #128C7E;
+    /* Cor mais escura quando passar o mouse */
+}
