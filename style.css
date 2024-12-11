@@ -26,6 +26,9 @@ h1 {
     max-width: 200px;
     text-align: center;
 }
+.barra {
+    margin-left: 40px;
+}
 #piso {
     background-color: rgb(153, 153, 113);
     width: 100%;
