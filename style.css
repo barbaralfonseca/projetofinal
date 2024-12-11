@@ -57,3 +57,13 @@ i.fab.fa-whatsapp:hover {
     color: #128C7E;
     /* Cor mais escura quando passar o mouse */
 }
+i.fab.fa-instagram {
+    font-size: 30px; /* Tamanho do ícone */
+    color: #E1306C;  /* Cor do Instagram */
+    cursor: pointer; /* Indica que o ícone é clicável */
+margin-left: 7px;
+}
+
+i.fab.fa-instagram:hover {
+    color: #C13584;  /* Cor ao passar o mouse */
+}
