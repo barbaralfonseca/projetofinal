@@ -1,12 +1,12 @@
 body {
-    background-color: rgb(196, 175, 149);
+    background-color: #e8dbad;
 }
 h1 {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color:black;
 }
 .textoColorido {
-    color:rgb(0, 68, 255) ;
+    color:rgb(0, 1, 5) ;
  }
  img {
     height: 200px;
@@ -15,14 +15,15 @@ h1 {
 .produtos{
     display:inline-block ;
     margin: 50px 30px;
-    background-color:aqua;
+    background-color:  #b39e58;
 }
 .produtos > p{
     max-width: 200px;
     text-align: center;
 }
-form {
+#piso {
     background-color: rgb(153, 153, 113);
     width: 100%;
+    display: flex;
 }
 /*  ajustar a largura do formulario.*/
