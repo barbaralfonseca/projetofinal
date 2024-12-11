@@ -1,5 +1,10 @@
 body {
     background-color: #e8dbad;
+    margin: 0%;
+    padding: 0%;
+}
+section {
+    margin: 40px;
 }
 h1 {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
